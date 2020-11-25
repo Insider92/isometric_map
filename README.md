@@ -1,6 +1,6 @@
 "# TypeScriptGame" 
 
 
-CyperCrawler 
+CyberCrawler 
 
-Dungeon Crawler im Cyperpunk Setting -> Gunplay im Dungeon
+Dungeon Crawler im Cyberpunk Setting -> Gunplay im Dungeon
